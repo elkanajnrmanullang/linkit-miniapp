@@ -8,7 +8,7 @@ Repositori ini berisi Mini App Fullstack yang dikembangkan untuk Technical Test.
 * **Backend:** Node.js (Express) <br>
   *Alasan:* Sangat ringan dan efisien untuk membangun RESTful API serta pemrosesan I/O asinkron.
 * **Frontend:** React.js + Tailwind CSS <br>
-  *Alasan:*Memberikan performa tinggi melalui Virtual DOM untuk merender data dari API, sementara Tailwind mempercepat proses styling UI.
+  *Alasan:* Memberikan performa tinggi melalui Virtual DOM untuk merender data dari API, sementara Tailwind mempercepat proses styling UI.
 * **Database:** PostgreSQL <br>
   *Alasan:* Relational database yang sangat tangguh untuk mengelola master data dan data transaksional, sesuai dengan requirement sistem.
 * **ORM:** Prisma <br>
